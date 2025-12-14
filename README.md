@@ -3,6 +3,7 @@
 ## Overview
 
 This project implements a machine learning–based spam email classifier using Natural Language Processing (NLP). The system predicts whether an email is **Spam** or **Ham** based on its subject and body text. The project follows a complete ML pipeline from data preprocessing to model evaluation and comparison.
+
 ---
 
 ## Objective
