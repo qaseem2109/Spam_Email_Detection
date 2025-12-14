@@ -66,4 +66,14 @@ Logistic Regression demonstrated the best balance between precision and recall, 
 -) Web-based deployment (Streamlit / Django)
 -) Real-time email classification using APIs
 
+🙌 Contribution
+Pull requests are welcome. For major changes, open an issue first to discuss your ideas.
 
+📄 License
+This project is licensed under the MIT License.
+
+📧 Contact
+For inquiries or collaboration:
+
+Muhammad Qaseem
+Email: qaseem2109@gmail.com GitHub: https://github.com/qaseem2109
